@@ -40,7 +40,8 @@ Estrutura definida
 
 * Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto
 
-<img width="286" height="540" alt="image" src="https://github.com/user-attachments/assets/333baa3a-5dd7-44a5-804b-bee8ab73d083" />
+<img width="260" height="371" alt="image" src="https://github.com/user-attachments/assets/d93490bc-6200-40dd-b126-2165420d87b5" />
+
 
 
 <img width="294" height="307" alt="image" src="https://github.com/user-attachments/assets/dc82c152-44ec-48e1-b99f-0046d21388cb" />
